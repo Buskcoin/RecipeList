@@ -14,15 +14,15 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="http://www.mxplmr.com/">Spectral: Light Puzzle</a></td>
-      <td></td>
-      <td></td>
-      <td>iOS</td>
+      <td><a href="https://docs.google.com/document/d/1luzzL6oKztof_P3Aqotr84U913uQxFyEB7gWUb-vliw/edit">Drum Kit</a></td>
+      <td>0.75</td>
+      <td>Eclipse</td>
+      <td>Recipe</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.git-game.com/">The git-game</a></td>
+      <td><a href="https://docs.google.com/document/d/1luzzL6oKztof_P3Aqotr84U913uQxFyEB7gWUb-vliw/edit">Drum Kit</a></td>
       <td></td>
       <td>Desktop</td>
       <td></td>
