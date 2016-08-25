@@ -5,10 +5,10 @@
     <tr>
       <th>Name</th>
       <th>URL</th>
-      <th>lesson</th>
-      <th>iOS&nbsp;</th>
-      <th>Android</th>
-      <th>PS4&nbsp;</th>
+      <th>Duration</th>
+      <th>Platform</th>
+      <th>Solution URL</th>
+      <th>Teaching notes</th>
     </tr>
   </thead>
   <tbody>
