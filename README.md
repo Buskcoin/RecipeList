@@ -16,7 +16,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://docs.google.com/document/d/1luzzL6oKztof_P3Aqotr84U913uQxFyEB7gWUb-vliw/edit">Drum Kit</a></td>
+      <td><a href="https://docs.google.com/document/d/1luzzL6oKztof_P3Aqotr84U913uQxFyEB7gWUb-vliw/edit">New Recipe</a></td>
       <td>0.75</td>
       <td>Eclipse</td>
       <td>Recipe</td>
