@@ -26,96 +26,108 @@
     </tr>
     <tr>
       <td><a href="https://docs.google.com/document/d/1luzzL6oKztof_P3Aqotr84U913uQxFyEB7gWUb-vliw/edit">Drum Kit</a></td>
-      <td></td>
-      <td>Desktop</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a href="http://ombgames.com/?p=5">The Sequence</a></td>
-      <td></td>
-      <td>Desktop</td>
-      <td>iOS</td>
-      <td>Android</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a href="http://facepalmgames.com/the-swapper/">The Swapper</a></td>
-      <td></td>
-      <td>Desktop</td>
-      <td></td>
-      <td></td>
-      <td>PS4</td>
-    </tr>
-    <tr>
-      <td><a href="http://store.steampowered.com/app/257510/?snr=1_5_1100__1100">The Talos Principle</a></td>
-      <td></td>
-      <td>Desktop</td>
+      <td>0.75</td>
+      <td>Eclipse</td>
+      <td>Recipe</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="http://www.kongregate.com/games/duerig/tile-factory">Tile Factory</a></td>
-      <td>Browser</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><strong><a href="http://www.zachtronics.com/tis-100/">TIS-100</a></strong></td>
-      <td></td>
-      <td>Desktop</td>
-      <td>iOS</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a href="http://www.trainyard.ca/">Trainyard</a></td>
-      <td></td>
-      <td></td>
-      <td>iOS</td>
-      <td>Android</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://alexnisnevich.github.io/untrusted/">Untrusted</a></strong></td>
-      <td>Browser</td>
-      <td></td>
+     <td><a href="https://docs.google.com/document/d/1luzzL6oKztof_P3Aqotr84U913uQxFyEB7gWUb-vliw/edit">Drum Kit</a></td>
+      <td>0.75</td>
+      <td>Eclipse</td>
+      <td>Recipe</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="http://vim-adventures.com/">VIM Adventures</a></td>
-      <td>Browser</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a href="http://vindinium.org/">Vindinium</a></td>
-      <td>Browser</td>
-      <td></td>
+     <td><a href="https://docs.google.com/document/d/1luzzL6oKztof_P3Aqotr84U913uQxFyEB7gWUb-vliw/edit">Drum Kit</a></td>
+      <td>0.75</td>
+      <td>Eclipse</td>
+      <td>Recipe</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="http://overthewire.org/wargames/">War Games</a></td>
-      <td>Browser</td>
-      <td></td>
+     <td><a href="https://docs.google.com/document/d/1luzzL6oKztof_P3Aqotr84U913uQxFyEB7gWUb-vliw/edit">Drum Kit</a></td>
+      <td>0.75</td>
+      <td>Eclipse</td>
+      <td>Recipe</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/olistic/warriorjs">WarriorJS</a></td>
+      <td><a href="https://docs.google.com/document/d/1luzzL6oKztof_P3Aqotr84U913uQxFyEB7gWUb-vliw/edit">Drum Kit</a></td>
+      <td>0.75</td>
+      <td>Eclipse</td>
+      <td>Recipe</td>
       <td></td>
-      <td>Desktop</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://docs.google.com/document/d/1luzzL6oKztof_P3Aqotr84U913uQxFyEB7gWUb-vliw/edit">Drum Kit</a></td>
+      <td>0.75</td>
+      <td>Eclipse</td>
+      <td>Recipe</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+    <td><a href="https://docs.google.com/document/d/1luzzL6oKztof_P3Aqotr84U913uQxFyEB7gWUb-vliw/edit">Drum Kit</a></td>
+      <td>0.75</td>
+      <td>Eclipse</td>
+      <td>Recipe</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://docs.google.com/document/d/1luzzL6oKztof_P3Aqotr84U913uQxFyEB7gWUb-vliw/edit">Drum Kit</a></td>
+      <td>0.75</td>
+      <td>Eclipse</td>
+      <td>Recipe</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://docs.google.com/document/d/1luzzL6oKztof_P3Aqotr84U913uQxFyEB7gWUb-vliw/edit">Drum Kit</a></td>
+      <td>0.75</td>
+      <td>Eclipse</td>
+      <td>Recipe</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://docs.google.com/document/d/1luzzL6oKztof_P3Aqotr84U913uQxFyEB7gWUb-vliw/edit">Drum Kit</a></td>
+      <td>0.75</td>
+      <td>Eclipse</td>
+      <td>Recipe</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://docs.google.com/document/d/1luzzL6oKztof_P3Aqotr84U913uQxFyEB7gWUb-vliw/edit">Drum Kit</a></td>
+      <td>0.75</td>
+      <td>Eclipse</td>
+      <td>Recipe</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://docs.google.com/document/d/1luzzL6oKztof_P3Aqotr84U913uQxFyEB7gWUb-vliw/edit">Drum Kit</a></td>
+      <td>0.75</td>
+      <td>Eclipse</td>
+      <td>Recipe</td>
       <td></td>
       <td></td>
       <td></td>
