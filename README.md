@@ -4,7 +4,6 @@
   <thead>
     <tr>
       <th>Name</th>
-      <th>URL</th>
       <th>Duration</th>
       <th>Platform</th>
       <th>Solution URL</th>
