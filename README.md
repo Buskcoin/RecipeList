@@ -10,6 +10,7 @@
       <th>Objectives</th>
       <th>Solution URL</th>
       <th>Teaching notes</th>
+      <th></th>
       
     </tr>
   </thead>
