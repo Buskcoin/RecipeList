@@ -4,7 +4,7 @@
   <thead>
     <tr>
       <th>Name</th>
-      <th>link</th>
+      <th>URL</th>
       <th>lesson</th>
       <th>iOS&nbsp;</th>
       <th>Android</th>
