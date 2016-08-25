@@ -6,6 +6,7 @@
       <th>Name</th>
       <th>Duration</th>
       <th>Platform</th>
+      <th>Type</th>
       <th>Solution URL</th>
       <th>Teaching notes</th>
       <th>Objectives</th>
