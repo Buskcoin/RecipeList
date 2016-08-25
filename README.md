@@ -10,7 +10,7 @@
       <th>Objectives</th>
       <th>Solution URL</th>
       <th>Teaching notes</th>
-      <th></th>
+      
       
     </tr>
   </thead>
@@ -20,6 +20,7 @@
       <td>0.75</td>
       <td>Eclipse</td>
       <td>Recipe</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
